@@ -1,1 +1,6 @@
 C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\bin\Debug\Chapter1-ManageProgramFlow.exe.config
+C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\bin\Debug\Chapter1-ManageProgramFlow.exe
+C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\bin\Debug\Chapter1-ManageProgramFlow.pdb
+C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\obj\Debug\Chapter1-ManageProgramFlow.csprojResolveAssemblyReference.cache
+C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\obj\Debug\Chapter1-ManageProgramFlow.exe
+C:\Git\Personal\MCSD 70-483\Chapter1-ManageProgramFlow\Chapter1-ManageProgramFlow\obj\Debug\Chapter1-ManageProgramFlow.pdb

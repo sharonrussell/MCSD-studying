@@ -43,7 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Program1-1.cs" />
+    <Compile Include="Program1-2.cs" />
+    <Compile Include="Program1-3.cs" />
+    <Compile Include="Program1-4.cs" />
+    <Compile Include="Program1-5.cs" />
+    <Compile Include="Program1-6.cs" />
+    <Compile Include="Program1-7.cs" />
+    <Compile Include="Program1_10.cs" />
+    <Compile Include="Program1_11.cs" />
+    <Compile Include="Program1_8.cs" />
+    <Compile Include="Program1_9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
