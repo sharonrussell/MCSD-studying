@@ -43,22 +43,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program1-1.cs" />
-    <Compile Include="Program1-2.cs" />
-    <Compile Include="Program1-3.cs" />
-    <Compile Include="Program1-4.cs" />
-    <Compile Include="Program1-5.cs" />
-    <Compile Include="Program1-6.cs" />
-    <Compile Include="Program1-7.cs" />
-    <Compile Include="Program1_10.cs" />
-    <Compile Include="Program1_11.cs" />
-    <Compile Include="Program1_8.cs" />
-    <Compile Include="Program1_9.cs" />
+    <Compile Include="Threads\Program1-1.cs" />
+    <Compile Include="Threads\Program1-2.cs" />
+    <Compile Include="Threads\Program1-3.cs" />
+    <Compile Include="Threads\Program1-4.cs" />
+    <Compile Include="Threads\Program1-5.cs" />
+    <Compile Include="Threads\Program1-6.cs" />
+    <Compile Include="ThreadPool\Program1-7.cs" />
+    <Compile Include="Tasks\Program1_10.cs" />
+    <Compile Include="Tasks\Program1_11.cs" />
+    <Compile Include="Tasks\Program1_12.cs" />
+    <Compile Include="Tasks\Program1_13.cs" />
+    <Compile Include="Tasks\Program1_14.cs" />
+    <Compile Include="Tasks\Program1_15.cs" />
+    <Compile Include="Parallel\Program1_16.cs" />
+    <Compile Include="Parallel\Program1_17.cs" />
+    <Compile Include="Parallel\Program1_18.cs" />
+    <Compile Include="Async\Program1_19.cs" />
+    <Compile Include="Async\Program1_20.cs" />
+    <Compile Include="Async\Program1_21.cs" />
+    <Compile Include="Tasks\Program1_8.cs" />
+    <Compile Include="Tasks\Program1_9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
