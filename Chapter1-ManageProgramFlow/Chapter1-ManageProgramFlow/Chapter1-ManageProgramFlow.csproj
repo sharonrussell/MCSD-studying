@@ -43,12 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcurrentCollections\Program1_29.cs" />
+    <Compile Include="ConcurrentCollections\Program1_30.cs" />
+    <Compile Include="ConcurrentCollections\Program1_31.cs" />
+    <Compile Include="ConcurrentCollections\Program1_32.cs" />
+    <Compile Include="ConcurrentCollections\Program1_33.cs" />
+    <Compile Include="ConcurrentCollections\Program1_34.cs" />
     <Compile Include="PLINQ\Program1_22.cs" />
     <Compile Include="PLINQ\Program1_23.cs" />
     <Compile Include="PLINQ\Program1_24.cs" />
     <Compile Include="PLINQ\Program1_25.cs" />
     <Compile Include="PLINQ\Program1_26.cs" />
     <Compile Include="PLINQ\Program1_27.cs" />
+    <Compile Include="ConcurrentCollections\Program1_28.cs" />
     <Compile Include="Threads\Program1-1.cs" />
     <Compile Include="Threads\Program1-2.cs" />
     <Compile Include="Threads\Program1-3.cs" />

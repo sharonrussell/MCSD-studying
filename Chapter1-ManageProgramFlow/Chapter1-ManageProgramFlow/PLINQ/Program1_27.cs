@@ -7,22 +7,22 @@ namespace Chapter1_ManageProgramFlow.PLINQ
     // inner exceptions
     public static class Program1_27
     {
-        public static void Main()
-        {
-            var numbers = Enumerable.Range(0, 20);
+        //public static void Main()
+        //{
+        //    var numbers = Enumerable.Range(0, 20);
 
-            try
-            {
-                var parallelResult = numbers.AsParallel()
-                    .Where(IsEven);
+        //    try
+        //    {
+        //        var parallelResult = numbers.AsParallel()
+        //            .Where(IsEven);
                     
-                parallelResult.ForAll(Console.WriteLine);
-            }
-            catch (AggregateException e)
-            {
-                Console.WriteLine($"there were {e.InnerExceptions.Count} exceptions");
-            }
-        }
+        //        parallelResult.ForAll(Console.WriteLine);
+        //    }
+        //    catch (AggregateException e)
+        //    {
+        //        Console.WriteLine($"there were {e.InnerExceptions.Count} exceptions");
+        //    }
+        //}
 
         private static bool IsEven(int i)
         {
